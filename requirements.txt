@@ -1,0 +1,11 @@
+streamlit==1.38.0
+opencv-python==4.10.0.84
+deepface==0.0.89
+tensorflow==2.16.2
+peewee==3.17.6
+pandas==2.2.2
+numpy==1.26.4
+Pillow==10.4.0
+mtcnn==0.1.1
+retina-face==0.0.17
+gunicorn==23.0.0  # optional - for deployment
