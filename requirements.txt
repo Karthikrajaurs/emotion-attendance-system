@@ -3,7 +3,7 @@ opencv-python==4.10.0.84
 deepface
 tensorflow==2.20.0
 peewee==3.17.6
-pandas==2.2.2
+pandas==2.2.3
 numpy==1.26.4
 Pillow==10.4.0
 mtcnn==0.1.1
